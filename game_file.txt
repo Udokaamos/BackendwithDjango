@@ -1,0 +1,1 @@
+{'gloria': {'password': '6666', 'high_score': 0}, 'samuel': {'password': '3333', 'high_score': 0}}
